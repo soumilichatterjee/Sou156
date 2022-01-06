@@ -5,7 +5,10 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about  javascript, react and mongoDb
 - 📫  You can reach me at riyachatterjee403@gmail.com
-- ⚡ Fun fact: I can sleep 12 hours a day  
+- ⚡ Life Motto: if(you.sad==true){
+- sad.stop()
+- beAwesome()
+- }
 
 ---
 
