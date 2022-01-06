@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about  javascript, react and mongoDb
 - 📫  You can reach me at riyachatterjee403@gmail.com
-- ⚡ Life Motto: if(you.sad==true){
-- sad.stop()
-- beAwesome()
-- }
+- ⚡ Life Motto: if(you.sad==true){sad.stop() beAwesome()}
 
 ---
 
