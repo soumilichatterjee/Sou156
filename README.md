@@ -1,4 +1,5 @@
-### Hi, I'm Soumili Chatterjee!
+
+                                                                          Hi 👋, I'm Soumili!
 
 - 🔭 I’m currently working on projects built on MERN stack
 - 🌱 I’m currently learning Full Stack Web Development
