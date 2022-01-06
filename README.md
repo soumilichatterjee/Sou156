@@ -1,4 +1,4 @@
-### Hi, I'm Soumili Chatterjee! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
+### Hi, I'm Soumili Chatterjee! <img height="300px"  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 - 🔭 I’m currently working on projects built on MERN stack
 - 🌱 I’m currently learning ...
