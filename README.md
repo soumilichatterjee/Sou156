@@ -1,5 +1,5 @@
 
-                                                           style="font-family: 'Lucida Console'; Hi 👋, I'm Soumili!
+                                                        Hi 👋, I'm Soumili!
 
 - 🔭 I’m currently working on projects built on MERN stack
 - 🌱 I’m currently learning Full Stack Web Development
