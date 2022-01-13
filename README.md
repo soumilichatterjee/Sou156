@@ -16,7 +16,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sou156)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sou156)  [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/soumili-chatterjee-a9144b217//)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/showmethelee//)
+[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/Sou156)  [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' height='60'>](https://www.linkedin.com/in/soumili-chatterjee-a9144b217//)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='40'>](https://www.instagram.com/showmethelee//)
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sou156)  
