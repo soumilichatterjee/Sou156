@@ -1,5 +1,5 @@
 
- <img src= "https://ibb.co/7n1xJpj">                                             
+ <img src= "https://i.postimg.cc/BQ4RLxN4/untitled.png">                                             
 
 - 🔭 I’m currently working on projects built on MERN stack
 - 🌱 I’m currently learning Full Stack Web Development
