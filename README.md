@@ -1,5 +1,5 @@
 
- <img src= "https://im7.ezgif.com/tmp/ezgif-7-d3262d6367.gif">                                             
+ <img src= "https://im7.ezgif.com/tmp/ezgif-7-ae08f14034.gif">                                             
 
 - 🔭 I’m currently working on projects built on MERN stack
 - 🌱 I’m currently learning Full Stack Web Development
