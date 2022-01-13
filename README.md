@@ -61,9 +61,9 @@ Let's connect and chat! Open to anything under the sun.
 <br>
 <br>
 [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='60'>](https://github.com/Sou156)  [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' height='60'>](https://www.linkedin.com/in/soumili-chatterjee-a9144b217//)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='60'>](https://www.instagram.com/showmethelee//)
- 
-<img src="https://img.icons8.com/fluency/40/000000/medium-logo.png">
 
+
+   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 
 
