@@ -55,6 +55,8 @@
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sou156)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <hr>
 
 *Let's connect and chat! Open to anything under the sun*.
