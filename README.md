@@ -57,7 +57,7 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sou156)   -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sou156&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sou156&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sou156&theme=chartreuse-dark)](https://git.io/streak-stats)
 <hr>
 
 *Let's connect and chat! Open to anything under the sun*.
