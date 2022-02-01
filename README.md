@@ -55,7 +55,7 @@
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sou156)   -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sou156&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sou156&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sou156&theme=dark)](https://git.io/streak-stats)
 <hr>
