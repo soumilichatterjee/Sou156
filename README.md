@@ -1,6 +1,6 @@
  <div align="center">
  
- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ ### Hello World!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align = "center">I'm a tech enthusiast who loves to learn about new things 👩🏻‍💻</p>
 
