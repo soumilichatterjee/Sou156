@@ -1,15 +1,12 @@
+ <div align="center">
+ 
+ ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
- <img src= "https://i.postimg.cc/s2ghv0G7/untitled-1.png">                                             
+<p align = "center">I'm a tech enthusiast who loves to learn about new things 👨🏻‍💻 Connect with me on LinkedIn.</p>
 
-- 🔭 I’m currently working on projects built on MERN stack
-- 🌱 I’m currently learning Full Stack Web Development
-- 💬 Ask me about  javascript, react and mongoDb
-- 📫  You can reach me at riyachatterjee403@gmail.com
-- ⚡ Life Motto: if(you.sad==true){sad.stop() beAwesome()}
-
+ 
 ---
-⚡ Tech Stack
-
+ 
 🚀 Languages
 <br>
 <p>
@@ -25,13 +22,10 @@
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 🧑🏻‍💻 Tools & Platform
@@ -52,40 +46,13 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sou156)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sou156&theme=dark&hide_border=true" width = 400>
+</p>
 
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sou156)   -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sou156&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sou156&theme=chartreuse-dark)](https://git.io/streak-stats)
-<hr>
-
-***Let's connect and chat! Open to anything under the sun***.
 <br>
-<br>
-[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='60'>](https://github.com/Sou156)  [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' height='60'>](https://www.linkedin.com/in/soumili-chatterjee-a9144b217//)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174855.png' alt='instagram' height='60'>](https://www.instagram.com/showmethelee//)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Soumili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumili-chatterjee-a9144b217/)](https://www.linkedin.com/in/soumili-chatterjee-a9144b217/)
+[![Gmail Badge](https://img.shields.io/badge/-riyachatterjee403@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riyachatterjee403@gmail.com)](riyachatterjee403@gmail.com)
 
-   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ </div>
